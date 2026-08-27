@@ -26,5 +26,5 @@ Keeps the classic 3.3.5 talent system.
 
 🎯 Exclusively for WoW 3.3.5a
 
-📸 Preview
+📸 Preview - Addon
 <img width="1293" height="786" alt="Screenshot_3" src="https://github.com/user-attachments/assets/475ec700-ac3e-4508-9e49-a01a5886fe8e" />
