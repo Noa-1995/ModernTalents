@@ -1,4 +1,5 @@
 ⚔️ ModernTalents
+
 🇪🇸 Español
 
 Interfaz de talentos para World of Warcraft 3.3.5a, inspirada en el estilo visual de WoW Retail.
