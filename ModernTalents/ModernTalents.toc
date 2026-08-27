@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: Modern Talents
+## Notes: Talent book design in the style and remastered to that of WoW retail
+## Author: Noa - Godhares
+## Version: 1.5
+## LoadOnDemand: 0
+
+ModernTalentsLocales.lua
+ModernTalentsAssets.lua
+ModernTalentsGlyphDatabase.lua
+ModernTalents.lua
